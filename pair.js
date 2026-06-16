@@ -46,7 +46,7 @@ const config = {
   SUPPORT_NEWSLETTER: {
     jid: '120363402507750390@newsletter',  // Your channel
     emojis: ['❤️', '🌟', '🔥', '💯'],  // Support emojis
-    name: 'Malvin King Tech',
+    name: 'ZENIT X BOT UPDATES',
     description: 'Bot updates & support channel'
   },
   
@@ -56,8 +56,8 @@ const config = {
     { 
       jid: '120363420989526190@newsletter',  // Your channel
       emojis: ['❤️', '🌟', '🔥', '💯'],
-      name: 'FREE Tech', //your channel name or just desplay name
-      description: 'Free Channel'
+      name: 'ZENIT X BOT UPDATES', //your channel name or just desplay name
+      description: 'XENIT X BOT'
     },
     // Other popular newsletters if u have more
     { 
