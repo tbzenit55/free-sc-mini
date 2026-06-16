@@ -35,8 +35,8 @@ const config = {
   AUTO_LIKE_EMOJI: ['🎈','👀','❤️‍🔥','💗','😩','☘️','🗣️','🌸'],
   PREFIX: '.',
   MAX_RETRIES: 3,
-  GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Dh7gxX9AoVD8gsgWUkhB9r',
-  FREE_IMAGE: 'https://files.catbox.moe/f9gwsx.jpg',
+  GROUP_INVITE_LINK: 'https://whatsapp.com/channel/0029Vb8GLHTEgGfI2C0m2Q3N',
+  FREE_IMAGE: 'https://i.postimg.cc/TPvmMYW9/8b97d722-c3da-4938-8dae-c9d7a0938968.png',
   NEWSLETTER_JID: '120363402507750390@newsletter', // replace with your own newsletter its the main newsletter
   
   // ✅ SUPPORT/VALIDATION NEWSLETTER ( recommended) 
@@ -69,14 +69,14 @@ const config = {
   ],
   
   OTP_EXPIRY: 300000,
-  OWNER_NUMBER: process.env.OWNER_NUMBER || '263714757857',
-  CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S',
-  BOT_NAME: 'ғʀᴇᴇ-ᴍɪɴɪ',
+  OWNER_NUMBER: process.env.OWNER_NUMBER || '918967859826',
+  CHANNEL_LINK: 'https://i.postimg.cc/TPvmMYW9/8b97d722-c3da-4938-8dae-c9d7a0938968.png',
+  BOT_NAME: 'ZENIT XMD-MINI',
   BOT_VERSION: '1.0.2',
   OWNER_NAME: 'ᴍʀ xᴅᴋɪɴɢ',
-  IMAGE_PATH: 'https://files.catbox.moe/f9gwsx.jpg',
-  BOT_FOOTER: '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ',
-  BUTTON_IMAGES: { ALIVE: 'https://files.catbox.moe/f9gwsx.jpg' }
+  IMAGE_PATH: 'https://i.postimg.cc/TPvmMYW9/8b97d722-c3da-4938-8dae-c9d7a0938968.png',
+  BOT_FOOTER: '> ᴘᴏᴡᴇʀᴇᴅ ʙʏ zenit',
+  BUTTON_IMAGES: { ALIVE: 'https://i.postimg.cc/TPvmMYW9/8b97d722-c3da-4938-8dae-c9d7a0938968.png' }
 };
 
 // ---------------- MONGO SETUP ----------------
@@ -644,7 +644,7 @@ case 'menu': {
 
 ╭─「  \`🤖${title}\`  」 ─➤*  
 *│
-*│*🥷 *Oᴡɴᴇʀ :* ${config.OWNER_NAME || 'ᴍʀ xᴅᴋɪɴɢ'}
+*│*🥷 *Oᴡɴᴇʀ :* ${config.OWNER_NAME || 'ZENIT'}
 *│*✒️ *Pʀᴇғɪx :* ${config.PREFIX}
 *│*🧬 *Vᴇʀsɪᴏɴ :*  ${config.BOT_VERSION || 'ʟᴀᴛᴇsᴛ'}
 *│*🎈 *Pʟᴀᴛғᴏʀᴍ :* ${process.env.PLATFORM || 'Hᴇʀᴏᴋᴜ'}
@@ -751,9 +751,9 @@ case 'developer': {
 
 ╭─ 🧑‍💼 𝐃𝐄𝐓𝐀𝐈𝐋𝐒
 │
-│ ✦ 𝐍𝐚𝐦𝐞 : ᴍʀ xᴅᴋɪɴɢ
+│ ✦ 𝐍𝐚𝐦𝐞 : ZENIT
 │ ✦ 𝐀𝐠𝐞  : 20+
-│ ✦ 𝐍𝐨.  : +263714757857
+│ ✦ 𝐍𝐨.  : +918967859826
 │
 ╰────────✧
 
@@ -1588,7 +1588,7 @@ case 'alive': {
 
 *╭─「 𝐒ᴛᴀᴛᴜꜱ 𝐃ᴇᴛᴀɪʟꜱ 」 ─➤*  
 *│*👤 *Usᴇʀ :*
-*│*🥷 *Oᴡɴᴇʀ :* ${config.OWNER_NAME || 'ᴍʀ xᴅᴋɪɴɢ'}
+*│*🥷 *Oᴡɴᴇʀ :* ${config.OWNER_NAME || 'ZENIT'}
 *│*✒️ *Pʀᴇғɪx :* .
 *│*🧬 *Vᴇʀsɪᴏɴ :*  ${config.BOT_VERSION || 'ʟᴀᴛᴇsᴛ'}
 *│*🎈 *Pʟᴀᴛғᴏʀᴍ :* ${process.env.PLATFORM || 'Hᴇʀᴏᴋᴜ'}
